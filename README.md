@@ -36,7 +36,7 @@ I have a degree in Systems Analysis and DevelopmentI and a master’s degree in 
 
 # 📊 GitHub Stats 📊
 
-[![Valmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir-filoh)](https://github.com/valmir-filho/github-readme-stats)
+[![Valmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir-filho)](https://github.com/valmir-filho/github-readme-stats)
 
 # 🏆 GitHub Trophies 🏆
 
