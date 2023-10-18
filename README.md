@@ -9,9 +9,11 @@ I have a degree in Systems Analysis and DevelopmentI and a master’s degree in 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-moro-conque-filho-2a809a238/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vmc_filho/)
 
-# Stacs
+# 💻 Tech Stack 💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 # 🏆 GitHub Trophies 🏆
 
