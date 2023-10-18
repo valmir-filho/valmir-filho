@@ -2,7 +2,7 @@
 
 My name is Valmir Moro Conque Filho and I live in Brazil.
 
-I have a degree in Systems Analysis and DevelopmentI and a master’s degree in Production and Systems Engineering, specializing in information quality for decision-making processes. I am a university professor, teaching engineering and technology courses.
+I have a degree in Systems Analysis and Development and a master’s degree in Production and Systems Engineering, specializing in information quality for decision-making processes. I am a university professor, teaching engineering and technology courses.
 
 # 🌐 Socials 🌐
 
