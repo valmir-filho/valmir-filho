@@ -34,6 +34,10 @@ I have a degree in Systems Analysis and DevelopmentI and a master’s degree in 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 📊 GitHub Stats 📊
+
+[![Valmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir-filoh)](https://github.com/valmir-filho/github-readme-stats)
+
 # 🏆 GitHub Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=valmir-filho)](https://github.com/ryo-ma/github-profile-trophy)
