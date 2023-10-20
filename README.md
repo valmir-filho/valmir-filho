@@ -40,6 +40,8 @@ I have a degree in Systems Analysis and Development and a master’s degree in P
 
 # ⌨️ GitHub Contributions ⌨️
 
+![snake animation](https://github.com/valmir-filho/valmir-filho/blob/output/github-contribution-grid-snake2.svg)
+
 # 🏆 GitHub Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=valmir-filho)](https://github.com/ryo-ma/github-profile-trophy)
