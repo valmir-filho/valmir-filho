@@ -38,9 +38,7 @@ I have a degree in Systems Analysis and Development and a master’s degree in P
 
 [![Valmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir-filho)](https://github.com/valmir-filho/github-readme-stats)
 
-# GitHub Contributions
-
-![snake gif](https://github.com/valmir-filho/valmir-filho/blob/output/github-contribution-grid-snake.svg)
+# ⌨️ GitHub Contributions ⌨️
 
 # 🏆 GitHub Trophies 🏆
 
