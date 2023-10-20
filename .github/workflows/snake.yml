@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -11,7 +11,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: valmir-filho
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
       - run: git status
