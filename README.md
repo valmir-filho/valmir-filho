@@ -13,7 +13,9 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vmcfilho)
 [![Whatapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541991256214)
 
-# 💻 Tech Stack 💻
+# 💻 Hard Skills 💻
+
+## 🌐 Web Browsers 🌐
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
