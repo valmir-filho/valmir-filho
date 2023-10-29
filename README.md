@@ -7,7 +7,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 # 🌐 Socials 🌐
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/valmir-filho)
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vmc_filho/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vmc_filho/)
 
 # 💻 Tech Stack 💻
 
