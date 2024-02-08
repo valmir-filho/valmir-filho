@@ -37,6 +37,10 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+## 📦 ETL 📦
+
+![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+
 ## 📚 Education 📚
 
 ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
