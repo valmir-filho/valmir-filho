@@ -116,6 +116,10 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
+## ⏱️ Workflow Platform ⏱️
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
 # 📊 GitHub Stats 📊
 
 [![Valmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valmir-filho)](https://github.com/valmir-filho/github-readme-stats)
