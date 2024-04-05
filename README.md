@@ -56,7 +56,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![NodeRed](https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Selenium](https://img.shields.io/badge/selenium-#43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 ## 👨🏻‍💻 IDE 👨🏻‍💻
