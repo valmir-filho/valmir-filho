@@ -1,4 +1,4 @@
-<center><h1>WELCOME TO MY PROFILE</h1></center>
+<h1 align="center">WELCOME TO MY PROFILE</h1>
 
 # 📖 About Me 📖
 
