@@ -145,7 +145,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valmir-filho)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=valmir-filho&label=Profile%20Views&color=000080=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=valmir-filho&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="right">
   <a href="#top">
