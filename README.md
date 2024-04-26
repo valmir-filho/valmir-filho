@@ -149,6 +149,6 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 <p align="right">
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=6495ED&style=flat&logo" alt="Back to top"/>
+    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0000FF&style=flat&logo" alt="Back to top"/>
   </a>
 </p>
