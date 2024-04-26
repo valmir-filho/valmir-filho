@@ -147,6 +147,14 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=valmir-filho&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?    
+        font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!"   
+        alt="thanks for your visit" />
+    </a>
+</div>
+
 <p align="right">
   <a href="#top">
     <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=000080&style=flat&logo" alt="Back to top"/>
