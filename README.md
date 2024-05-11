@@ -102,7 +102,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlint&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-777BB4?style=for-the-badge&logo=php&logoColor=white)    
+![PLSQL](https://img.shields.io/badge/PLSQL-777BB4?style=for-the-badge&logo=plsql&logoColor=white)    
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 💡 Prototyping Platforms 💡
