@@ -64,7 +64,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 ## 👨🏻‍💻 IDE 👨🏻‍💻
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-#3DDC84?style=for-the-badge&logo=android_studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android_studio&logoColor=white)
 ![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
