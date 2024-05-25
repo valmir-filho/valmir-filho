@@ -154,7 +154,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0C0C0C&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!"/>
+        <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=#FFFFFF&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!"/>
     </a>
 </div>
 
