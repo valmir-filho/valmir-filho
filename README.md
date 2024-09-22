@@ -20,6 +20,11 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+
+
+
 
 ## ☁️ Cloud ☁️
 
