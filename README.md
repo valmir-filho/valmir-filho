@@ -114,6 +114,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 ## 💡 Prototyping Platforms 💡
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=MicroPython&logoColor=white)
 
 ## 🗂 Repositories 🗂
 
