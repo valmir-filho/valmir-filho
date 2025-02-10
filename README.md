@@ -157,7 +157,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=valmir-filho)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvalmir-filho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvalmir-filho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors:&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
     <a href="https://git.io/typing-svg">
