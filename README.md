@@ -17,7 +17,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 # 🎖️ Certifications 🎖️
 
 <img src="https://github.com/user-attachments/assets/3e5c3726-937c-4aa0-9128-d0cbf7c5a518" alt="oracle certification" width="210" height="110">
-<img src="https://github.com/user-attachments/assets/2ffbe708-5f83-4249-9b21-540aa4854ced" alt="oracle certification" width="210" height="110">
+<img src="https://github.com/user-attachments/assets/16b6c8ca-09ec-4cb0-bfad-b70105d00285" alt="oracle certification" width="210" height="110">
 
 # 💻 Hard Skills 💻
 
