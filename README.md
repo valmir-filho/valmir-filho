@@ -14,9 +14,12 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vmcfilho)
 [![Whatapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541991256214)
 
-# 🎖️ Certification 🎖️
+# 🎖️ Certifications 🎖️
 
 <img src="https://github.com/user-attachments/assets/3e5c3726-937c-4aa0-9128-d0cbf7c5a518" alt="oracle certification" width="210" height="110">
+<img src="https://github.com/user-attachments/assets/2ffbe708-5f83-4249-9b21-540aa4854ced" alt="oracle certification" width="210" height="110">
+
+![DB23AIOCP](https://github.com/user-attachments/assets/2ffbe708-5f83-4249-9b21-540aa4854ced)
 
 # 💻 Hard Skills 💻
 
