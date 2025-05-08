@@ -24,6 +24,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 <img src="https://github.com/user-attachments/assets/8707dd06-733e-4231-b0b4-f5f657d4cd30" alt="google cloud badge" width="130" height="110">
 <img src="https://github.com/user-attachments/assets/3739d45f-7a4f-4240-82a1-c40e4591477a" alt="google cloud badge" width="130" height="110">
 <img src="https://github.com/user-attachments/assets/1ed174a0-baab-4e4d-a756-1fbb63582e19" alt="google cloud badge" width="130" height="110">
+<img src="https://github.com/user-attachments/assets/6baad375-f8f7-4611-93f7-7cf9343e6382" alt="google cloud badge" width="130" height="110">
 
 # 💻 Hard Skills 💻
 
