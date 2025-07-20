@@ -18,7 +18,8 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 <img src="https://github.com/user-attachments/assets/3e5c3726-937c-4aa0-9128-d0cbf7c5a518" alt="oracle certification" width="210" height="110">
 <img src="https://github.com/user-attachments/assets/16b6c8ca-09ec-4cb0-bfad-b70105d00285" alt="oracle certification" width="210" height="110">
-<img width="210" height="110" alt="MYSQLIMPOCA (1)" src="https://github.com/user-attachments/assets/ba247702-5ed7-49d5-a3c8-573ddaa8d415" />
+![MYSQLIMPOCA (1)](https://github.com/user-attachments/assets/1b16ea90-0374-4dbf-bad7-a06154c71489)
+
 
 <br/>
 <img src="https://github.com/user-attachments/assets/b1e408d1-4f24-450c-b803-26cbcfd2e196" alt="google cloud badge" width="130" height="110">
