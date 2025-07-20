@@ -18,7 +18,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 <img src="https://github.com/user-attachments/assets/3e5c3726-937c-4aa0-9128-d0cbf7c5a518" alt="oracle certification" width="210" height="110">
 <img src="https://github.com/user-attachments/assets/16b6c8ca-09ec-4cb0-bfad-b70105d00285" alt="oracle certification" width="210" height="110">
-<img src="https://github.com/user-attachments/assets/b3dff64b-c902-4532-9f17-f281bc7d7485" alt="oracle certification" width="210" height="110">
+<img src="https://github.com/user-attachments/assets/f80a902e-324e-4805-a9db-0a7634000e92" alt="oracle certification" width="210" height="110">
 <br/>
 <img src="https://github.com/user-attachments/assets/b1e408d1-4f24-450c-b803-26cbcfd2e196" alt="google cloud badge" width="130" height="110">
 <img src="https://github.com/user-attachments/assets/4687e479-dff4-4eae-8197-e6b53f932e4e" alt="google cloud badge" width="130" height="110">
