@@ -19,7 +19,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 <img src="https://github.com/user-attachments/assets/3e5c3726-937c-4aa0-9128-d0cbf7c5a518" alt="oracle certification" width="210" height="110">
 <img src="https://github.com/user-attachments/assets/16b6c8ca-09ec-4cb0-bfad-b70105d00285" alt="oracle certification" width="210" height="110">
 <img src="https://github.com/user-attachments/assets/d419dae9-5f79-446e-a67e-47a86e1f7f33" alt="oracle certification" width="190" height="70">
-<img width="1024" height="1024" alt="ChatGPT Image 19 de jul  de 2025, 22_23_57" src="https://github.com/user-attachments/assets/8c2900c8-8af9-4029-8e5a-82d750848c60" />
+<img width="190" height="110" alt="ChatGPT Image 19 de jul  de 2025, 22_23_57" src="https://github.com/user-attachments/assets/8c2900c8-8af9-4029-8e5a-82d750848c60" />
 
 <br/>
 <img src="https://github.com/user-attachments/assets/b1e408d1-4f24-450c-b803-26cbcfd2e196" alt="google cloud badge" width="130" height="110">
