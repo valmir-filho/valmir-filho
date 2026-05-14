@@ -173,8 +173,8 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 # 📊 GitHub Stats 📊
 
 <div align="center">
-    ![Valmir GitHub stats](https://github-readme-stats.vercel.app/api?username=valmir-filho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-filho&layout=compact&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valmir-filho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-filho&layout=compact&theme=tokyonight"/>
 </div>
 
 # 🏆 GitHub Trophies 🏆
