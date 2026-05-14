@@ -176,7 +176,7 @@ I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s D
 
 # 🏆 GitHub Trophies 🏆
 
-[![trophy](https://valmir-filho-trophy.vercel.app/?username=valmir-filho)](https://github.com/ryo-ma/valmir-filho-trophy)
+[![trophy](https://valmir-filho-trophy.vercel.app/?username=valmir-filho)](https://github.com/valmir-filho-trophy)
 
 ![Visitors](https://komarev.com/ghpvc/?username=valmir-filho&color=green&label=Visitors)
 
