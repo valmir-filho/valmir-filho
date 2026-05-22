@@ -4,7 +4,7 @@
 
 My name is Valmir Moro Conque Filho and I live in Brazil.
 
-I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s Degree in Production and Systems Engineering, specializing in information quality for decision-making processes. I am a Systems Analyst and University Professor, teaching engineering and technology courses.
+I'm Engineer, Mathematician and Systems Development Analyst. I've a Master’s Degree in Production and Systems Engineering, specializing in information quality for decision-making processes. I am a Systems Analyst at Fundação Estatal à Saúde.
 
 # 🌎 Socials 🌎
 
